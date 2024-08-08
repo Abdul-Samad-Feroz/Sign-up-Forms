@@ -1,4 +1,4 @@
-.anas {
+.Anas {
   border: 1px solid black;
   background-color: white;
   width: 400px;
@@ -10,7 +10,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.anas input {
+.Anas input {
   margin: 10px 2px;
   padding: 20px 90px;
   border-radius: 10px;
@@ -37,7 +37,7 @@ body {
 }
 
 
-.anas button {
+.Anas button {
   width: 350px;
   height: 40px;
   background-color: rgba(27, 66, 208, 0.87);
@@ -47,7 +47,7 @@ body {
   border: none;
 }
 
-.anas a {
+.Anas a {
   text-decoration: none;
   color: teal;
 }
